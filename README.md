@@ -33,4 +33,4 @@ print(suma)
 pzykldowy fragment kodu `print(Hello World)`
 
 fota
-! [Kot] (/ pulpit / to / images.jpeg)
+! [images.jpeg](images.jpeg)
