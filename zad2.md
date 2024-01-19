@@ -1,2 +1,4 @@
-| Element 1 | Element 2 |
-| :- - -:   | :- - -:   |
+|Kolumna 1|Kolumna 2|Kolumna 3|
+|:---:|:---:|:---:|
+|abc|def|ghi|
+|asd|zxc|qwe|
